@@ -1,0 +1,22 @@
+﻿  main.c
+c:\users\кирилл\desktop\computergraphics-master\main.c(8): error C2057: требуется константное выражение
+c:\users\кирилл\desktop\computergraphics-master\main.c(8): error C2466: невозможно выделить память для массива постоянного нулевого размера
+c:\users\кирилл\desktop\computergraphics-master\main.c(8): error C2087: zbuf: отсутствует индекс
+c:\users\кирилл\desktop\computergraphics-master\main.c(39): error C2057: требуется константное выражение
+c:\users\кирилл\desktop\computergraphics-master\main.c(39): error C2466: невозможно выделить память для массива постоянного нулевого размера
+c:\users\кирилл\desktop\computergraphics-master\main.c(39): error C2087: zbuf: отсутствует индекс
+c:\users\кирилл\desktop\computergraphics-master\main.c(116): error C2057: требуется константное выражение
+c:\users\кирилл\desktop\computergraphics-master\main.c(116): error C2466: невозможно выделить память для массива постоянного нулевого размера
+c:\users\кирилл\desktop\computergraphics-master\main.c(116): error C2087: zbuf: отсутствует индекс
+c:\users\кирилл\desktop\computergraphics-master\main.c(116): error C2133: zbuf: неизвестный размер
+c:\users\кирилл\desktop\computergraphics-master\main.c(117): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\desktop\computergraphics-master\main.c(118): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\desktop\computergraphics-master\main.c(123): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\desktop\computergraphics-master\main.c(145): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\кирилл\desktop\computergraphics-master\main.c(176): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\desktop\computergraphics-master\main.c(178): error C2059: синтаксическая ошибка: }
+c:\users\кирилл\desktop\computergraphics-master\main.c(188): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\кирилл\desktop\computergraphics-master\main.c(189): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\кирилл\desktop\computergraphics-master\main.c(192): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\кирилл\desktop\computergraphics-master\main.c(193): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\кирилл\desktop\computergraphics-master\main.c(216): warning C4244: функция: преобразование "double" в "unsigned char", возможна потеря данных
